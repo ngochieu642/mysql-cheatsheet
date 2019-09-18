@@ -82,7 +82,7 @@ ALTER TABLE table DROP field1
 ALTER TABLE table ADD INDEX (field);
 ```
 
-## Change field o
+## Change field order
 
 ```sql
 ALTER TABLE table MODIFY field1 type1 FIRST
